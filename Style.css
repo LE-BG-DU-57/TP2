@@ -1,0 +1,18 @@
+h1 {color:white; 
+	background-color:blue; 
+	text-align:center;} 
+
+h2 {color: blue; 
+	font-family:arial; 
+	text-align:center;}
+
+body {text-align:justify; 
+	margin:40px 100px 50px 100px;}
+span {color:blue; font-style:italic;}
+.message {text-align:center;}
+img.centre {display:block; margin-left:auto; margin-right:auto}
+img {width:250px; border-style:dashed;}
+.LIEN {color:blue; text-align:center;}
+
+ul {list-style-type:none; text-align:center; padding-bottom:20px; padding-top:20px; background-image:url(texture.png)}
+li {display:inline; margin:20px;}
